@@ -1,0 +1,24 @@
+1.Write 3 Variables(number,string, boolean)
+
+ 2 variabble using(let,const)
+
+3.mathematical Function(+,-,*,/) using Function 
+
+4.Comaprison (check 2 variable equal/small/big/not equal)
+
+5.Fulfill Both Condition/fullfill at least one condition
+
+6. if-else
+
+7. While loop Odd Number Display  between including 7-19 
+
+8.Declare array ,Number of element , 4th position , replace/update ,Add or Remove / Check 
+Specific Value in the array 
+
+9.Use For Loop to display All element of an array 
+
+10.I have an array of number , display only the number bigger than 80
+
+11.write a function that take 3 numbers and return the multipication
+
+12. Declare a object and Change property.
